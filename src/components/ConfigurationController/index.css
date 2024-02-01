@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.control-bg {
+  background-color: #475569;
+  height: 300px;
+  color: white;
+  padding: 20px;
+  width: 100%;
+}
+input,
+label {
+  padding: 10px;
+  border: none;
+  margin: 10px;
+}

@@ -1,0 +1,11 @@
+.header-bg {
+  padding: 20px;
+  background-color: #cbd5e1;
+  font-family: 'Roboto';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #475569;
+  margin: 10px;
+  width: 100%;
+}
